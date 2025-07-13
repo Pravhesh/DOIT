@@ -111,13 +111,5 @@ GrievAI is a civic tech platform that integrates **AI agents**, **Ethereum smart
 
 ---
 
-## 📽️ Demo Strategy (Hackathon MVP)
-
-- Submit a grievance → AI classifies → On-chain log → Dashboard updates
-- “Generating ZK Proof…” spinner to simulate privacy
-- Admin-only button to simulate DAO escalation
-- Live Etherscan link to show blockchain immutability
-
----
 
 > GrievAI is the fusion of AI autonomy, blockchain transparency, and privacy-first civic design. It redefines public service accountability in the digital age.
